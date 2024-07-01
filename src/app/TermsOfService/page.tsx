@@ -16,7 +16,7 @@ const TermsOfService: React.FC = () => {
         
         <section className="mb-6">
           <p className="text-lg text-gray-600 mb-4">
-            Welcome to FileStorage. By using our services, you agree to comply with and be bound by the following terms of service. Please review the following terms carefully.
+            Welcome to FileDrive. By using our services, you agree to comply with and be bound by the following terms of service. Please review the following terms carefully.
           </p>
 
           <h2 className="text-2xl font-semibold text-gray-800 mb-2">Acceptance of Terms</h2>
